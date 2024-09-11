@@ -1,9 +1,5 @@
 {
   "scripts": {
-    "install": "apt-get update && apt-get install -y ffmpeg"
-  }
-  "scripts": {
     "install": "npm install --omit=dev"
-
   }
 }
